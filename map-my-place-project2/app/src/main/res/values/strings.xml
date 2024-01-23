@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Map My Place</string>
+    <string name="maps">Maps</string>
+    <string name="places">Places</string>
+    <string name="email">Email</string>
+    <string name="about">About</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_maps">Maps</string>
+    <string name="action_places">Places</string>
+    <string name="action_email">Email</string>
+    <string name="action_about">About</string>
+
+    <!--Map strings-->
+    <string name="lat_long_snippet">42.99044, -81.2131057</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+    <string name="zoom">15f</string>
+    <string name="invalid">Invalid LatLng</string>
+    <string name="noaddress">No address found</string>
+    <string name="problem">Problem with the geolocation service</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="send_email">Send Email</string>
+    <string name="team">Our Developer Team:</string>
+    <string name="app_overview">Map-my-place is a digital platform that enables users to discover nearby places bases on your current geographical position. This type of app is particularly useful for coordinating meetups, providing directions, collaborating on travel plans, and sharing points of interest. It simplifies the process of communicating location details and helps users make informed decisions based on shared geographical information.</string>
+    <string name="cyrus">CYRUS SHAKYA</string>
+    <string name="nabin">NABIN PUN</string>
+    <string name="about_app">About Our App</string>
+
+
+</resources>
