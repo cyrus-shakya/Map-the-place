@@ -1,11 +1,13 @@
 
 ## Map My Place - Your Gps app
-Welcome to Map My Place, It is an Android application that allows users to view their current location on Google Maps, explore nearby places, and share their current location's latitude and longitude through email. This project is developed using Swift within the Storyboard framework, WeatherVerse stands as the final project for my second semester in Fanshawe College's Mobile Application Development course.
+Welcome to Map My Place, It is an Android application that allows users to view their current location on Google Maps, explore nearby places, and share their current location's latitude and longitude through email.
 
 ## App Features:
 
 ### 1. View Current Location:
 -  See your current location on Google Maps.
+-  View your Location name and latitude and longitude
+
   
 ### 2. List Nearby Places:
 - Explore a list of nearby places based on your current location.
